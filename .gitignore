@@ -1,1 +1,12 @@
+# secret files
+.secrets.*
+
+
+# virtual envs
 .venv
+.env
+env
+venv
+
+# caches
+__pycache__
